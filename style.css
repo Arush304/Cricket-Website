@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link {
+  color: red;
+ 
+}
+<style>
+a:link {
+  color: red;
+ 
+}
+a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: blue;
+  
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Times New Roman', Times, serif;
+}
+}
+
+
+
+
+body{
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
